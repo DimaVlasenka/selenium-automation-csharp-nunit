@@ -1,0 +1,12 @@
+{
+  "username": "rahulshettyacademy",
+  "password": "learning",
+  "incor_pass": "lern",
+  "textToType_bel": "Bel",
+  "countryToSelect_bel": "Belgium",
+  "textToType_ger": "Ger",
+  "countryToSelect_ger": "Germany",
+  "textToType_pol": "Pol",
+  "countryToSelect_pol": "Poland",
+  "productsToSelect": [ "iphone X", "Blackberry" ]
+}
